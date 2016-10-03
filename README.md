@@ -25,4 +25,6 @@ Since user B had changes to the master branch, it will still conflict with the c
 
 We modified different files. The repo was okay because we did not interfere with each others pushes. 
 
-### Task 5: We modify the same file and both of us merge back to master. This is the same case as when we both modify the same file and try to push. It will cause a problem because there are conflicts at the origin.  
+### Task 5: 
+
+We modify the same file and both of us merge back to master. This is the same case as when we both modify the same file and try to push. It will cause a problem because there are conflicts at the origin.  
